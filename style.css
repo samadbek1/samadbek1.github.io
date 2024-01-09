@@ -1,0 +1,487 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+}
+
+ul li a {
+    margin: 15px;
+    color: #1F1534;
+    font-size: 18px;
+
+}
+.r img{
+    border-radius: 50%;
+    margin-top: 90px;
+}
+
+.box {
+    justify-content: space-between;
+    max-width: 1140px;
+    width: 100%;
+    margin: auto;
+
+
+}
+
+.box1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+
+ul li a span {
+    color: #1F1534;
+    opacity: 0.5;
+}
+
+.logo {
+
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #233348;
+
+
+}
+
+.box1 img {
+    background-image: url(./Ellipse\ 7.png);
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    margin-left: -60px;
+    border-radius: 50%;
+}
+
+.tx {
+    display: flex;
+    justify-content: center;
+
+}
+
+.te h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.te {
+    margin-top: 100px;
+}
+
+.te p {
+    font-weight: 300;
+    font-size: 21px;
+    color: #7D7987;
+    mix-blend-mode: normal;
+    margin-top: 30px;
+    margin-left: -5px;
+}
+
+.te button {
+    position: absolute;
+    width: 200px;
+    background: #458FF6;
+    border-radius: 55px;
+    height: 56px;
+    margin-top: 20px;
+    color: white;
+    border: none;
+    box-shadow: 1px 1px 10px black;
+}
+
+.te button:hover {
+    box-shadow: 4px 4px 40px black;
+    color: black;
+}
+
+.r {
+    max-width: 693px;
+    height: 598px;
+    text-align: center;
+    margin-left: 120px;
+}
+
+.q {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.q h2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.q img {
+    margin-top: 15px;
+}
+
+.q p {
+    color: #7D7987;
+    mix-blend-mode: normal;
+    margin-top: 15px;
+}
+
+.urta {
+    border-radius: 200px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+.urta1 {
+    background: #FFFFFF;
+    margin-right: 20px;
+    border-radius: 20px;
+    height: 254px;
+    width: 250px;
+    box-shadow: 1px 1px 6px black;
+}
+
+.urta2 {
+    background: #FFFFFF;
+    margin-right: 20px;
+    border-radius: 20px;
+    height: 254px;
+    width: 250px;
+    box-shadow: 1px 1px 6px black;
+}
+
+.orta {
+    border-radius: 200px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+.orta1 {
+    background: #FFFFFF;
+    margin-right: 20px;
+    border-radius: 20px;
+    height: 254px;
+    width: 250px;
+    box-shadow: 1px 1px 6px black;
+}
+
+.orta2 {
+    background: #FFFFFF;
+    margin-right: 20px;
+    border-radius: 20px;
+    height: 254px;
+    width: 250px;
+    box-shadow: 1px 1px 6px black;
+}
+
+main {
+    background-image: url(/Vector.png);
+    background-repeat: no-repeat;
+    width: calc(20);
+
+}
+
+.urta1 img {
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 62px;
+    height: 73px;
+}
+
+.urta1 h3,
+p {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.urta2 img {
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 62px;
+    height: 73px;
+}
+
+.urta2 h3,
+p {
+    margin-left: 30px;
+}
+
+
+.orta1 img {
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 62px;
+    height: 73px;
+}
+
+.orta1 h3,
+p {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.orta2 img {
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 62px;
+    height: 73px;
+}
+
+.orta2 h3,
+p {
+    margin-left: 30px;
+}
+
+main p {
+    color: #7D7987;
+}
+
+main h3 {
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.pas button {
+
+
+    width: 200px;
+    border-radius: 55px;
+    height: 56px;
+    margin-top: 50px;
+    color: #458FF6;
+    border: 1.4px solid #458FF6;
+    background: none;
+    margin-left: -100px;
+
+}
+
+.pas {
+    text-align: center;
+}
+
+.txu {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.r1 {
+    max-width: 693px;
+    height: 598px;
+
+}
+.r1 img{
+   border-radius: 30%;
+}
+.ti h1 {
+    font-size: 48px;
+    font-weight: 700;
+    margin-left: 50px;
+}
+
+.ti p {
+    font-weight: 300;
+    font-size: 21px;
+    color: #7D7987;
+    mix-blend-mode: normal;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.ti button {
+    position: absolute;
+    width: 200px;
+    background: #458FF6;
+    border-radius: 55px;
+    height: 56px;
+    margin-top: 20px;
+    color: white;
+    border: none;
+    color: #458FF6;
+    border: 1.4px solid #458FF6;
+    background: none;
+    margin-left: 50px;
+}
+
+.rasm2 {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.rang {
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    border-radius: 51px;
+    width: 1120px;
+    height: 425px;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 2px;
+    box-shadow: 1px 1px 6px black;
+    padding-top: 60px;
+}
+
+.rang :hover {
+    box-shadow: 1px 1px 10px black;
+}
+
+.ext {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+
+}
+
+.ext1 {
+    display: flex;
+    color: white;
+}
+
+.ext1 img {
+    border-radius: 50%;
+    border: 4px solid white;
+}
+
+.ext1 span {
+    font-size: 18px;
+}
+
+.ext1 h3 {
+    font-size: 22px;
+}
+
+.ext1 h3 {
+    margin-top: 42px;
+    margin-left: 27px;
+}
+
+.opwe {
+    display: flex;
+    margin: 91px;
+    margin-left: 171px;
+    margin-top: 10px;
+}
+
+.ext2 p {
+    color: white;
+    margin-top: 31px;
+}
+
+
+
+.pasi {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.pasi img {
+    margin-top: 30px;
+    
+}
+
+
+.turta {
+    border-radius: 200px;
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+
+}
+.turta span img{
+   width: 350px;
+   height: 200px;
+}
+.turta1 {
+    background: #FFFFFF;
+    margin-right: 20px;
+    border-radius: 20px;
+    height: 512px;
+    width: 350px;
+    box-shadow: 1px 1px 6px black;
+
+}
+
+.turta1 img {
+    border-radius: 20px;
+   
+}
+
+.turta2 img {
+    border-radius: 20px;
+}
+
+.turta2 {
+    background: #FFFFFF;
+    margin-right: 20px;
+    border-radius: 20px;
+    height: 512px;
+    width: 350px;
+    box-shadow: 1px 1px 6px black;
+}
+
+.turta1 :hover {
+    box-shadow: 4px 4px 40px black;
+    color: blue;
+}
+
+.turta2 :hover {
+    box-shadow: 4px 4px 40px black;
+    color: blue;
+}
+
+.turta1 h3,
+p,
+h4 {
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.turta2 h3,
+p,
+h4 {
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.turta1 h4 {
+    margin-top: 50px;
+    color: blue;
+}
+
+.turta2 h4 {
+    margin-top: 50px;
+    color: blue;
+}
+
+footer ul {
+    display: flex;
+    font-size: 31px;
+    margin-top: 220px;
+    justify-content: center;
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    height: 432px;
+    width: 100%;
+    padding-top: 140px;
+}
+
+footer ul li a {
+    font-size: 21px;
+    margin: 160px;
+    color: white;
+
+}
+
+footer ul li a span {
+    color: white;
+}
